@@ -1,2 +1,2 @@
 # humhub-modules-enterprise-theme
-Issue tracker only 
+Issue tracker for the HumHub Professional Edition module 'Enterprise Theme'. 
